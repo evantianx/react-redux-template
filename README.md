@@ -5,6 +5,7 @@
 > [React Higher-Order Components in TypeScript](https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb)
 
 > [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+> [Clean React Architecture with Redux, Immer, TypeScript and Redux Observable](https://techinscribed.com/clean-react-architecture-with-redux-immer-typescript-redux-observable/)
 
 
 ### Issues
